@@ -1,6 +1,6 @@
 # vue-music
 
-> vue开发音乐播放器
+> 狂拽炫酷的vue开发音乐播放器，叼的不行 /doge/doge
 
 ## Build Setup
 
